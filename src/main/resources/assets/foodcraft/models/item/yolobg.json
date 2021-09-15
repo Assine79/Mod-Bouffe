@@ -1,5 +1,5 @@
 {
-  "parent": "foodcraft:block/yolo",
+  "parent": "foodcraft:block/yolobg",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -22,7 +22,7 @@ import java.util.Collections;
 
 @FoodcraftModElements.ModElement.Tag
 public class YoloBlock extends FoodcraftModElements.ModElement {
-	@ObjectHolder("foodcraft:yolo")
+	@ObjectHolder("foodcraft:yolobg")
 	public static final Block block = null;
 	public YoloBlock(FoodcraftModElements instance) {
 		super(instance, 1);
@@ -37,7 +37,7 @@ public class YoloBlock extends FoodcraftModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("yolo");
+			setRegistryName("yolobg");
 		}
 
 		@Override
