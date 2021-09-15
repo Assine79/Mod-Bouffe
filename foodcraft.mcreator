@@ -2,20 +2,32 @@
   "id_map": {},
   "mod_elements": [
     {
+<<<<<<< HEAD
       "name": "PPcool",
+=======
+      "name": "Yolo",
+>>>>>>> 2270fb927aaf505c265ebfcc9d75c29102dcc662
       "type": "block",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
+<<<<<<< HEAD
       "registry_name": "p_pcool"
+=======
+      "registry_name": "yolo"
+>>>>>>> 2270fb927aaf505c265ebfcc9d75c29102dcc662
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+<<<<<<< HEAD
       "block.foodcraft.p_pcool": "P Pcool"
+=======
+      "block.foodcraft.yolo": "Yolo"
+>>>>>>> 2270fb927aaf505c265ebfcc9d75c29102dcc662
     }
   },
   "foldersRoot": {
