@@ -3,11 +3,11 @@
   "_type": "block",
   "definition": {
     "texture": "test",
-    "textureTop": "test",
-    "textureLeft": "test",
-    "textureFront": "test",
-    "textureRight": "test",
-    "textureBack": "test",
+    "textureTop": "",
+    "textureLeft": "",
+    "textureFront": "",
+    "textureRight": "",
+    "textureBack": "",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Arouf",
+    "name": "Assine",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
