@@ -1,42 +1,10 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "Yolo",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "yolo"
-    },
-    {
-      "name": "Arouf",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "arouf"
-    },
-    {
-      "name": "Assine",
-      "type": "block",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "assine"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.foodcraft.assine": "Assine",
-      "block.foodcraft.yolo": "Yolo",
-      "block.foodcraft.arouf": "Arouf"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
