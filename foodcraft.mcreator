@@ -18,12 +18,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "test_2"
+    },
+    {
+      "name": "Test3",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_3"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.foodcraft.test_3": "Test 3",
       "block.foodcraft.test_2": "Test 2",
       "block.foodcraft.test": "Test"
     }
