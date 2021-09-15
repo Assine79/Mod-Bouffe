@@ -8,14 +8,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "yolo"
+      "registry_name": "yolobg"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.foodcraft.yolo": "Yolo"
+      "block.foodcraft.yolobg": "Yolo"
     }
   },
   "foldersRoot": {
