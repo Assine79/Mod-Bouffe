@@ -8,32 +8,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-<<<<<<< HEAD
-      "registry_name": "yolo"
-    },
-    {
-      "name": "Arouf",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "arouf"
-=======
       "registry_name": "yolobg"
->>>>>>> daf179e039ab68d1637c328f46f79fe361f69a65
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-<<<<<<< HEAD
-      "block.foodcraft.yolo": "Yolo",
-      "block.foodcraft.arouf": "Arouf"
-=======
       "block.foodcraft.yolobg": "Yolo"
->>>>>>> daf179e039ab68d1637c328f46f79fe361f69a65
     }
   },
   "foldersRoot": {
